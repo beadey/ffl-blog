@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Beadie Teigh`,
-    author: `Beadie`,
+    title: `Beadey Teigh`,
+    author: `Beadey`,
     description: `Creating an award-winning animated series called Future Football League from the ground up. Hopefully.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `beadie_t`,
+      twitter: `beadey_t`,
     },
   },
   plugins: [
