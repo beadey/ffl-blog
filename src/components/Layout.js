@@ -22,7 +22,7 @@ class Layout extends React.Component {
             style={{
               boxShadow: `none`,
               textDecoration: `none`,
-              color: `inherit`,
+              color: `#333`,
             }}
             to={`/`}
           >
@@ -42,7 +42,7 @@ class Layout extends React.Component {
             style={{
               boxShadow: `none`,
               textDecoration: `none`,
-              color: `inherit`,
+              color: `#333`,
             }}
             to={`/`}
           >
@@ -54,15 +54,24 @@ class Layout extends React.Component {
     return (
       <div
         style={{
-          marginLeft: `auto`,
-          marginRight: `auto`,
-          maxWidth: rhythm(24),
-          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+          backgroundColor: `rgb(45, 0, 72)`,
+          backgroundImage: `url(../bg.jpg)`,
+          backgroundBlendMode: `color-burn`,
+          padding: `${rhythm(2)} 0`,
         }}
       >
-        {header}
-        {children}
-        <footer>© {new Date().getFullYear()}, B. Teigh</footer>
+        <div
+          style={{
+            margin: `0 auto`,
+            maxWidth: rhythm(26),
+            padding: `${rhythm(1.5)} ${rhythm(2)}`,
+            backgroundColor: `white`,
+          }}
+        >
+          {header}
+          {children}
+          <footer>© {new Date().getFullYear()}, B. Teigh</footer>
+        </div>
       </div>
     )
   }

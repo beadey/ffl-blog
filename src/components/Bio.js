@@ -2,8 +2,6 @@ import React from 'react'
 import { StaticQuery, graphql } from 'gatsby'
 import Image from 'gatsby-image'
 
-import { rhythm } from '../utils/typography'
-
 function Bio() {
   return (
     <StaticQuery
@@ -15,12 +13,14 @@ function Bio() {
             <p>{description}</p>
             <p>
               Posts by {author}.{` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
+              <a
+                href={`https://twitter.com/${social.twitter}`}
+                style={{ color: `#333` }}
+              >
                 His twitter is not cool
               </a>
               .
             </p>
-            <hr />
           </React.Fragment>
         )
       }}
