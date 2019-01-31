@@ -10,14 +10,14 @@ function Bio() {
         const { author, social, description } = data.site.siteMetadata
         return (
           <React.Fragment>
-            <p>{description}</p>
-            <p>
+            <p style={{ backgroundColor: `white` }}>{description}</p>
+            <p style={{ backgroundColor: `white` }}>
               Posts by {author}.{` `}
               <a
                 href={`https://twitter.com/${social.twitter}`}
                 style={{ color: `#333` }}
               >
-                His twitter is not cool
+                His twitter is nothing special
               </a>
               .
             </p>

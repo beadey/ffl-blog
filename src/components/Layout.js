@@ -58,6 +58,7 @@ class Layout extends React.Component {
           backgroundImage: `url(../bg.jpg)`,
           backgroundBlendMode: `color-burn`,
           padding: `${rhythm(2)} 0`,
+          minHeight: `100vh`,
         }}
       >
         <div

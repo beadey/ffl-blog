@@ -4,10 +4,6 @@ date: '2019-01-29T22:42:13.284Z'
 author: Beadie
 ---
 
-Sorry for the lack of focus lately. I've recently stumbled upon some old writings of mine and loved reliving where I was when I wrote them.
-
-Now, back to Future Football League, or I should probably say, a more devoted introduction to it.
-
 For the past 10 years, I have been kicking around an idea for a TV show. The inspiration for the show came when Adult Swim announced they would have open admissions for TV shows. I raced to come up with an idea and ultimately landed on the idea of a show called _Tustard League_.
 
 Set in the future, _Tustard League_ followed 3 referees as they tried to solve crimes on and off the field. In this world, professional football had taken precedent over all government, so it would make sense that the referees actions had huge ramifications on the world. One aspect of the show is all the referees were living fart clouds, and that Tustard was a synonym for a toot. Like I said, I first wanted to pitch this to Adult Swim so don't hate.
