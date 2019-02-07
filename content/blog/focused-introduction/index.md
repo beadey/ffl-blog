@@ -1,7 +1,7 @@
 ---
 title: Focused Introduction
 date: '2019-01-29T22:42:13.284Z'
-author: Beadie
+author: Beadey
 ---
 
 For the past 10 years, I have been kicking around an idea for a TV show. The inspiration for the show came when Adult Swim announced they would have open admissions for TV shows. I raced to come up with an idea and ultimately landed on the idea of a show called _Tustard League_.
