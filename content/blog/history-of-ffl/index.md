@@ -10,7 +10,7 @@ History is usually boring as hell and this is no exception, so here's a link to 
 
 ## The sad State of the NFL
 
-In the late Twenty Teens, the NFL faces a serious hurdle when it is forced to lockout the players due to escalating NFL Player's Association salary disputes. This lockout lasts for two seasons, ending all NFL games for 24 months.
+In the late Twenty Teens, the NFL faces a serious hurdle when it is forced to lockout the players due to escalating NFL Player's Association salary disputes. This lockout lasts for two seasons, ending all NFL games for 30 months.
 
 During this time, several professional football offshoots gain some traction, including the newly rebooted XFL, an all-black player league called the Black Football Alliance, as well as a staged league spun off from an ultra-successful reoccurring Kyle Mooney skit on Saturday Night Live.
 
